@@ -1440,6 +1440,10 @@ button.button__201d5
     -webkit-mask-image: var(--tree-icon-url);
     -webkit-mask-size: var(--tree-icon-size);
     -webkit-mask-repeat: none;
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    text-align: center;
 }
 
 .wrapper__6e9f8:hover .childWrapper__6e9f8::before {
