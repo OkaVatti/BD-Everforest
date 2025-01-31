@@ -1434,8 +1434,8 @@ button.button__201d5
     content: '';
     display: var(--tree-icon);
     position: absolute;
-    width: 65%;
-    height: 65%;
+    width: 50%;
+    height: 50%;
     background: var(--text-4);
     -webkit-mask-image: var(--tree-icon-url);
     -webkit-mask-size: var(--tree-icon-size);
