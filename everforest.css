@@ -1447,6 +1447,8 @@ button.button__201d5
     align-self: center;
     align-content: center;
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .wrapper__6e9f8:hover .childWrapper__6e9f8::before {
