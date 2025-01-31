@@ -1434,12 +1434,15 @@ button.button__201d5
     content: '';
     display: var(--tree-icon);
     position: absolute;
-    width: 50%;
-    height: 50%;
+    width: 65%;
+    height: 65%;
     background: var(--text-4);
     -webkit-mask-image: var(--tree-icon-url);
     -webkit-mask-size: var(--tree-icon-size);
     -webkit-mask-repeat: none;
+    mask-image: var(--tree-icon-url);
+    mask-size: var(--tree-icon-size);
+    mask-repeat: none;
     align-items: center;
     align-self: center;
     align-content: center;
